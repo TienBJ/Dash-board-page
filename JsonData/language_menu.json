@@ -1,0 +1,18 @@
+[
+    {
+        "href" :"/en",
+        "icon": "/icon/us.svg",
+        "content": "English"
+    },
+    {
+        "href" :"/vn",
+        "icon": "/icon/tr.svg",
+        "content": "Vietnameses"
+    },
+    {
+        "href" :"/fr",
+        "icon": "/icon/fr.svg",
+        "content": "France"
+    }
+    
+]
